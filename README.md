@@ -31,11 +31,8 @@ Atualmente, estou em busca da minha primeira oportunidade na área de TI e tenho
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+- [Loja de venda de tênis](https://github.com/kaweg/Projeto-SENAI-)
+
 
 <!-- GIF -->
 <p align="left">
